@@ -1,2 +1,2 @@
 # WebCrawly
-This is a basic webcrawling program
+This is a basic webcrawling program using parallelism
